@@ -1,4 +1,7 @@
 # libs and build directories
-ModName/libs
-ModName/bin
-ModName/obj
+AspectSkins/libs
+AspectSkins/bin
+AspectSkins/obj
+build.sh
+ABuild
+AS.zip

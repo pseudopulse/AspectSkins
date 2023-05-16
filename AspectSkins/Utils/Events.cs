@@ -1,4 +1,4 @@
-namespace ModName.Utils {
+namespace AspectSkins.Utils {
    // this class was generated with the following code
    /*
 
