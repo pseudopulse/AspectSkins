@@ -1,0 +1,13 @@
+{
+	"name": "AspectSkins",
+	"version_number": "1.0.1",
+	"website_url": "https://github.com/pseudopulse/AspectSkins",
+	"description": "Adds the elite aspects as usable skins! Works with modded survivors and can be used simultaneously with other skins!",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.1",
+		"RiskofThunder-R2API_ContentManagement-1.0.1",
+		"RiskofThunder-R2API_Core-5.0.4",
+		"KingEnderBrine-ScrollableLobbyUI-1.7.6"
+	]
+}

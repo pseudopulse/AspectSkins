@@ -149,7 +149,7 @@ namespace AspectSkins {
 
                         EliteDef elite = elites[i];
 
-                        if (elite.modifierToken.Contains("SECRETSPEED") || elite.modifierToken.Contains("GOLD")) {
+                        if (elite.modifierToken == null || elite.modifierToken.Contains("SECRETSPEED") || elite.modifierToken.Contains("GOLD")) {
                             continue;
                         }
 
